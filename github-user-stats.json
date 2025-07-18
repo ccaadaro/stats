@@ -2,19 +2,24 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90785470?v=4",
     "username": "ccaadaro",
-    "repoViews": 44,
-    "linesOfCodeChanged": 11496279,
-    "linesAdded": 9082511,
-    "linesDeleted": 2413705,
-    "linesChanged": 63,
-    "totalCommits": 90,
+    "repoViews": 48,
+    "linesOfCodeChanged": 11498428,
+    "linesAdded": 9084645,
+    "linesDeleted": 2413717,
+    "linesChanged": 66,
+    "totalCommits": 93,
     "totalPullRequests": 0,
-    "codeByteTotal": 2153801,
+    "codeByteTotal": 2210932,
     "topLanguages": [
         {
             "languageName": "Jupyter Notebook",
             "color": "#DA5B0B",
             "value": 1102188
+        },
+        {
+            "languageName": "Python",
+            "color": "#3572A5",
+            "value": 1051228
         },
         {
             "languageName": "TypeScript",
@@ -25,11 +30,6 @@
             "languageName": "JavaScript",
             "color": "#f1e05a",
             "value": 99
-        },
-        {
-            "languageName": "Python",
-            "color": "#3572A5",
-            "value": 994097
         },
         {
             "languageName": "MATLAB",
@@ -44,16 +44,16 @@
     ],
     "forkCount": 0,
     "starCount": 2,
-    "totalContributions": 32,
+    "totalContributions": 36,
     "contributionsCollection": {
-        "totalCommitContributions": 22,
+        "totalCommitContributions": 25,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 0,
-        "totalRepositoryContributions": 9,
+        "totalRepositoryContributions": 10,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 32,
+            "totalContributions": 36,
             "weeks": [
                 {
                     "contributionDays": [
@@ -6486,8 +6486,12 @@
                             "date": "2025-07-16"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 1,
                             "date": "2025-07-17"
+                        },
+                        {
+                            "contributionCount": 3,
+                            "date": "2025-07-18"
                         }
                     ]
                 }
@@ -6496,5 +6500,5 @@
     },
     "closedIssues": 0,
     "openIssues": 0,
-    "fetchedAt": 1752755732591
+    "fetchedAt": 1752842136139
 }
