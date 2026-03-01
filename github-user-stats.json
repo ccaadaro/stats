@@ -9,57 +9,105 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-09-15T15:46:20Z",
-  "repoViews": 12,
-  "linesOfCodeChanged": 11502778,
-  "linesAdded": 9084515,
-  "linesDeleted": 2418263,
-  "commitCount": 290,
-  "totalCommits": 323,
-  "totalPullRequests": 0,
+  "repoViews": 13,
+  "linesOfCodeChanged": 11522388,
+  "linesAdded": 9098370,
+  "linesDeleted": 2424018,
+  "commitCount": 297,
+  "totalCommits": 324,
+  "totalPullRequests": 1,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 2251798,
+  "codeByteTotal": 140133118,
   "topLanguages": [
+    {
+      "languageName": "Python",
+      "color": "#3572A5",
+      "value": 86554667,
+      "percentage": 61.77
+    },
+    {
+      "languageName": "C++",
+      "color": "#f34b7d",
+      "value": 42778845,
+      "percentage": 30.53
+    },
+    {
+      "languageName": "Cuda",
+      "color": "#3A4E3A",
+      "value": 3860745,
+      "percentage": 2.76
+    },
+    {
+      "languageName": "C",
+      "color": "#555555",
+      "value": 1874421,
+      "percentage": 1.34
+    },
+    {
+      "languageName": "Objective-C++",
+      "color": "#6866fb",
+      "value": 1490583,
+      "percentage": 1.06
+    },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1102188,
-      "percentage": 48.95
+      "percentage": 0.79
     },
     {
-      "languageName": "Python",
-      "color": "#3572A5",
-      "value": 1074199,
-      "percentage": 47.7
+      "languageName": "CMake",
+      "color": "#DA3434",
+      "value": 824881,
+      "percentage": 0.59
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 51534,
-      "percentage": 2.29
+      "value": 536449,
+      "percentage": 0.38
+    },
+    {
+      "languageName": "Metal",
+      "color": "#8f14e9",
+      "value": 414087,
+      "percentage": 0.3
+    },
+    {
+      "languageName": "Assembly",
+      "color": "#6E4C13",
+      "value": 336439,
+      "percentage": 0.24
+    },
+    {
+      "languageName": "Starlark",
+      "color": "#76d275",
+      "value": 335936,
+      "percentage": 0.24
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 9886,
-      "percentage": 0.44
+      "percentage": 0.01
     },
     {
       "languageName": "MATLAB",
       "color": "#e16737",
       "value": 8404,
-      "percentage": 0.37
+      "percentage": 0.01
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 4598,
-      "percentage": 0.2
+      "percentage": 0
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 783,
-      "percentage": 0.03
+      "percentage": 0
     },
     {
       "languageName": "Dockerfile",
@@ -79,17 +127,17 @@
   "starsGiven": 2,
   "followers": 0,
   "following": 0,
-  "repositoriesContributedTo": 1,
+  "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 266,
+  "totalContributions": 269,
   "contributionStats": {
-    "longestStreak": 230,
-    "currentStreak": 230,
+    "longestStreak": 231,
+    "currentStreak": 231,
     "mostActiveDay": "Monday",
     "averagePerDay": 0.16,
-    "averagePerWeek": 1.14,
-    "averagePerMonth": 4.89,
+    "averagePerWeek": 1.15,
+    "averagePerMonth": 4.94,
     "monthlyBreakdown": [
       {
         "month": "2021-09",
@@ -305,57 +353,122 @@
       },
       {
         "month": "2026-02",
-        "contributions": 27
+        "contributions": 30
+      },
+      {
+        "month": "2026-03",
+        "contributions": 0
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 19,
-    "publicRepos": 11,
+    "totalRepos": 20,
+    "publicRepos": 12,
     "privateRepos": 8,
     "archivedRepos": 0,
-    "forkedRepos": 0,
+    "forkedRepos": 1,
     "originalRepos": 19,
-    "activeRepos": 1,
+    "activeRepos": 2,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.11
+    "reposCreatedThisYear": 1,
+    "averageStarsPerRepo": 0.1
   },
   "computedStats": {
-    "totalRepos": 19,
-    "publicRepos": 11,
+    "totalRepos": 20,
+    "publicRepos": 12,
     "privateRepos": 8,
     "archivedRepos": 0,
-    "forkedRepos": 0,
+    "forkedRepos": 1,
     "originalRepos": 19,
-    "activeRepos": 1,
+    "activeRepos": 2,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 0.11,
-    "languageCount": 9,
-    "primaryLanguage": "Jupyter Notebook",
-    "primaryLanguageThisYear": null,
-    "topLanguagesThisYear": [],
+    "reposCreatedThisYear": 1,
+    "averageStarsPerRepo": 0.1,
+    "languageCount": 17,
+    "primaryLanguage": "Python",
+    "primaryLanguageThisYear": "Python",
+    "topLanguagesThisYear": [
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 85480468,
+        "percentage": 62
+      },
+      {
+        "languageName": "C++",
+        "color": "#f34b7d",
+        "value": 42778845,
+        "percentage": 31.03
+      },
+      {
+        "languageName": "Cuda",
+        "color": "#3A4E3A",
+        "value": 3860745,
+        "percentage": 2.8
+      },
+      {
+        "languageName": "C",
+        "color": "#555555",
+        "value": 1874421,
+        "percentage": 1.36
+      },
+      {
+        "languageName": "Objective-C++",
+        "color": "#6866fb",
+        "value": 1490583,
+        "percentage": 1.08
+      },
+      {
+        "languageName": "CMake",
+        "color": "#DA3434",
+        "value": 824881,
+        "percentage": 0.6
+      },
+      {
+        "languageName": "Shell",
+        "color": "#89e051",
+        "value": 484915,
+        "percentage": 0.35
+      },
+      {
+        "languageName": "Metal",
+        "color": "#8f14e9",
+        "value": 414087,
+        "percentage": 0.3
+      },
+      {
+        "languageName": "Assembly",
+        "color": "#6E4C13",
+        "value": 336439,
+        "percentage": 0.24
+      },
+      {
+        "languageName": "Starlark",
+        "color": "#76d275",
+        "value": 335936,
+        "percentage": 0.24
+      }
+    ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 59,
+    "contributionsThisYear": 62,
     "contributionsLastYear": 206,
-    "yearOverYearGrowth": -71.36,
+    "yearOverYearGrowth": -69.9,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 44
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 254,
+    "totalCommitContributions": 255,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 11,
-    "totalPullRequestContributions": 0,
+    "totalRepositoryContributions": 12,
+    "totalPullRequestContributions": 1,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 266,
+      "totalContributions": 269,
       "weeks": [
         {
           "contributionDays": [
@@ -7828,8 +7941,16 @@
               "date": "2026-02-27"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 3,
               "date": "2026-02-28"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-03-01"
             }
           ]
         }
@@ -7849,6 +7970,19 @@
       "topics": [],
       "updatedAt": "2025-01-31T10:51:34Z",
       "createdAt": "2025-01-30T01:32:07Z"
+    },
+    {
+      "name": "pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "topics": [],
+      "updatedAt": "2026-02-28T13:47:51Z",
+      "createdAt": "2026-02-28T13:47:51Z"
     },
     {
       "name": "DPDG",
@@ -7899,7 +8033,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-02-27T12:55:30Z",
+      "updatedAt": "2026-02-28T12:43:35Z",
       "createdAt": "2025-07-14T16:48:52Z"
     },
     {
@@ -7953,22 +8087,9 @@
       "topics": [],
       "updatedAt": "2025-07-01T12:42:05Z",
       "createdAt": "2025-07-01T12:41:34Z"
-    },
-    {
-      "name": "dog_breed_classifier",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "topics": [],
-      "updatedAt": "2025-06-20T06:31:13Z",
-      "createdAt": "2025-06-20T06:30:48Z"
     }
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1772282299131
+  "fetchedAt": 1772368853664
 }
