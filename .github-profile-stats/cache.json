@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1781275848861,
+  "updatedAt": 1781358731102,
   "contributionYears": {
     "2021": {
       "year": "2021",
@@ -5622,7 +5622,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1781275833507,
+      "fetchedAt": 1781358718218,
       "immutable": false,
       "data": {
         "totalCommitContributions": 202,
@@ -7493,7 +7493,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPE-ucg",
@@ -7541,7 +7541,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPGDvgA",
@@ -7595,7 +7595,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOO-zvGQ",
@@ -7643,7 +7643,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPVM3og",
@@ -7697,7 +7697,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOO9-tyw",
@@ -7757,7 +7757,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPMH_aQ",
@@ -7805,7 +7805,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOOqnXCg",
@@ -7859,7 +7859,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPMad5w",
@@ -7875,9 +7875,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2025-07-14T16:48:52Z",
-          "updatedAt": "2026-06-11T15:52:49Z",
-          "pushedAt": "2026-06-11T15:52:45Z",
-          "defaultBranchOid": "16388e5907e21f76564a803bd0f869f557bccd8b",
+          "updatedAt": "2026-06-12T14:50:55Z",
+          "pushedAt": "2026-06-12T14:50:51Z",
+          "defaultBranchOid": "fb778bbc377a1f8cf11e9defd51ed0476500f2cd",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -7894,7 +7894,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPMas_w",
@@ -7948,7 +7948,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDOPOmanA",
@@ -7990,7 +7990,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         },
         {
           "id": "R_kgDONxmveg",
@@ -8032,25 +8032,25 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275833507
+          "metadataFetchedAt": 1781358718218
         }
       ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-06-12T14:50:32.792Z",
-      "fetchedAt": 1781275834341,
+      "to": "2026-06-13T13:51:57.430Z",
+      "fetchedAt": 1781358719244,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 169,
+        "totalCommitContributions": 170,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 0,
         "totalRepositoryContributions": 4,
         "totalPullRequestContributions": 6,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-          "totalContributions": 179,
+          "totalContributions": 180,
           "weeks": [
             {
               "contributionDays": [
@@ -8795,8 +8795,12 @@
                   "date": "2026-06-11"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 1,
                   "date": "2026-06-12"
+                },
+                {
+                  "contributionCount": 0,
+                  "date": "2026-06-13"
                 }
               ]
             }
@@ -8857,7 +8861,7 @@
           "nameWithOwner": "ccaadaro/stats",
           "owner": "ccaadaro",
           "counts": {
-            "commits": 161,
+            "commits": 162,
             "issues": 0,
             "pullRequests": 0,
             "pullRequestReviews": 0,
@@ -8942,7 +8946,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDOSYSWCg",
@@ -9026,7 +9030,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDORbI-HA",
@@ -9182,7 +9186,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDOOqnXCg",
@@ -9236,7 +9240,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDOPMad5w",
@@ -9252,9 +9256,9 @@
           "visibility": "PUBLIC",
           "viewerPermission": "ADMIN",
           "createdAt": "2025-07-14T16:48:52Z",
-          "updatedAt": "2026-06-11T15:52:49Z",
-          "pushedAt": "2026-06-11T15:52:45Z",
-          "defaultBranchOid": "16388e5907e21f76564a803bd0f869f557bccd8b",
+          "updatedAt": "2026-06-12T14:50:55Z",
+          "pushedAt": "2026-06-12T14:50:51Z",
+          "defaultBranchOid": "fb778bbc377a1f8cf11e9defd51ed0476500f2cd",
           "stars": 0,
           "forks": 0,
           "primaryLanguage": null,
@@ -9271,7 +9275,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDOS2aZQw",
@@ -9367,7 +9371,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
@@ -9383,11 +9387,11 @@
           "visibility": "PUBLIC",
           "viewerPermission": "READ",
           "createdAt": "2016-08-13T05:26:41Z",
-          "updatedAt": "2026-06-12T14:25:37Z",
-          "pushedAt": "2026-06-12T14:26:00Z",
-          "defaultBranchOid": "6f26be8b42ae1b923d7f7d56ff0fa12ad027632c",
-          "stars": 100684,
-          "forks": 27991,
+          "updatedAt": "2026-06-13T11:24:58Z",
+          "pushedAt": "2026-06-13T13:48:12Z",
+          "defaultBranchOid": "77e8ad08177a8af2cff1cd18ea8f996245e2ad33",
+          "stars": 100715,
+          "forks": 28004,
           "primaryLanguage": "Python",
           "topics": [
             "neural-network",
@@ -9403,49 +9407,49 @@
             {
               "languageName": "Python",
               "color": "#3572A5",
-              "value": 96121840,
+              "value": 96241128,
               "percentage": 63.65
             },
             {
               "languageName": "C++",
               "color": "#f34b7d",
-              "value": 43441926,
-              "percentage": 28.76
+              "value": 43460472,
+              "percentage": 28.74
             },
             {
               "languageName": "Cuda",
               "color": "#3A4E3A",
-              "value": 4022511,
-              "percentage": 2.66
+              "value": 4033576,
+              "percentage": 2.67
             },
             {
               "languageName": "C",
               "color": "#555555",
-              "value": 1900773,
-              "percentage": 1.26
+              "value": 1919874,
+              "percentage": 1.27
             },
             {
               "languageName": "Objective-C++",
               "color": "#6866fb",
-              "value": 1570058,
+              "value": 1567942,
               "percentage": 1.04
             },
             {
               "languageName": "CMake",
               "color": "#DA3434",
-              "value": 877363,
+              "value": 879121,
               "percentage": 0.58
             },
             {
               "languageName": "Metal",
               "color": "#8f14e9",
-              "value": 672202,
+              "value": 673002,
               "percentage": 0.45
             },
             {
               "languageName": "Shell",
               "color": "#89e051",
-              "value": 487777,
+              "value": 487968,
               "percentage": 0.32
             },
             {
@@ -9457,13 +9461,13 @@
             {
               "languageName": "HIP",
               "color": "#4F3A4F",
-              "value": 315997,
+              "value": 322159,
               "percentage": 0.21
             },
             {
               "languageName": "Starlark",
               "color": "#76d275",
-              "value": 290360,
+              "value": 290415,
               "percentage": 0.19
             },
             {
@@ -9499,7 +9503,7 @@
             {
               "languageName": "Batchfile",
               "color": "#C1F12E",
-              "value": 78976,
+              "value": 78968,
               "percentage": 0.05
             },
             {
@@ -9521,7 +9525,7 @@
               "percentage": 0.01
             }
           ],
-          "codeByteTotal": 151025983,
+          "codeByteTotal": 151200825,
           "sources": [
             "profile-contribution"
           ],
@@ -9532,7 +9536,7 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         },
         {
           "id": "R_kgDOI7xefg",
@@ -9548,11 +9552,11 @@
           "visibility": "PUBLIC",
           "viewerPermission": "READ",
           "createdAt": "2023-02-09T11:23:20Z",
-          "updatedAt": "2026-06-12T14:44:24Z",
-          "pushedAt": "2026-06-12T14:49:49Z",
-          "defaultBranchOid": "c7aa3d263049ac9eefd0f59a10f5ecc6a78927df",
-          "stars": 82682,
-          "forks": 17983,
+          "updatedAt": "2026-06-13T13:41:36Z",
+          "pushedAt": "2026-06-13T10:17:39Z",
+          "defaultBranchOid": "470229c37efaf69c86e8bc97482b0b1ff7551c65",
+          "stars": 82760,
+          "forks": 18013,
           "primaryLanguage": "Python",
           "topics": [
             "gpt",
@@ -9580,26 +9584,26 @@
             {
               "languageName": "Python",
               "color": "#3572A5",
-              "value": 38135623,
-              "percentage": 83.71
+              "value": 38160602,
+              "percentage": 84.22
             },
             {
               "languageName": "Cuda",
               "color": "#3A4E3A",
-              "value": 2630494,
-              "percentage": 5.77
+              "value": 2431492,
+              "percentage": 5.37
             },
             {
               "languageName": "Rust",
               "color": "#dea584",
-              "value": 2313095,
-              "percentage": 5.08
+              "value": 2331557,
+              "percentage": 5.15
             },
             {
               "languageName": "C++",
               "color": "#f34b7d",
-              "value": 1708333,
-              "percentage": 3.75
+              "value": 1705620,
+              "percentage": 3.76
             },
             {
               "languageName": "Shell",
@@ -9610,14 +9614,8 @@
             {
               "languageName": "CMake",
               "color": "#DA3434",
-              "value": 129229,
-              "percentage": 0.28
-            },
-            {
-              "languageName": "C",
-              "color": "#555555",
-              "value": 96491,
-              "percentage": 0.21
+              "value": 129169,
+              "percentage": 0.29
             },
             {
               "languageName": "Dockerfile",
@@ -9632,13 +9630,19 @@
               "percentage": 0.05
             },
             {
+              "languageName": "C",
+              "color": "#555555",
+              "value": 10959,
+              "percentage": 0.02
+            },
+            {
               "languageName": "Jinja",
               "color": "#a52a22",
               "value": 6924,
               "percentage": 0.02
             }
           ],
-          "codeByteTotal": 45557141,
+          "codeByteTotal": 45313275,
           "sources": [
             "profile-contribution"
           ],
@@ -9649,14 +9653,14 @@
             "pullRequestReviews": 0,
             "repositoryCreations": 0
           },
-          "metadataFetchedAt": 1781275834341
+          "metadataFetchedAt": 1781358719244
         }
       ]
     }
   },
   "repositories": {
     "R_kgDOPMMIrg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPMMIrg",
         "name": "ccaadaro",
@@ -9692,11 +9696,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOSZTQug": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOSZTQug",
         "name": "crypto-carry-scanner",
@@ -9739,11 +9743,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOPE-ucg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPE-ucg",
         "name": "customer_churn",
@@ -9792,11 +9796,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOPGDvgA": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPGDvgA",
         "name": "document-intelligence-transformer",
@@ -9851,11 +9855,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOO-zvGQ": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOO-zvGQ",
         "name": "dog_breed_classifier",
@@ -9904,11 +9908,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOPVM3og": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPVM3og",
         "name": "DPDG",
@@ -9963,11 +9967,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOSYSWCg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOSYSWCg",
         "name": "freqtrade",
@@ -10052,11 +10056,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOO9-tyw": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOO9-tyw",
         "name": "mnist-digit-classifier",
@@ -10117,11 +10121,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOPMH_aQ": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPMH_aQ",
         "name": "Multimodal-Sentiment-Analyzer",
@@ -10170,11 +10174,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDORbI-HA": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDORbI-HA",
         "name": "pytorch",
@@ -10331,11 +10335,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOOqnXCg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOOqnXCg",
         "name": "RL_Trading",
@@ -10390,11 +10394,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOPMad5w": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPMad5w",
         "name": "stats",
@@ -10409,9 +10413,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2025-07-14T16:48:52Z",
-        "updatedAt": "2026-06-11T15:52:49Z",
-        "pushedAt": "2026-06-11T15:52:45Z",
-        "defaultBranchOid": "16388e5907e21f76564a803bd0f869f557bccd8b",
+        "updatedAt": "2026-06-12T14:50:55Z",
+        "pushedAt": "2026-06-12T14:50:51Z",
+        "defaultBranchOid": "fb778bbc377a1f8cf11e9defd51ed0476500f2cd",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -10430,11 +10434,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOPMas_w": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPMas_w",
         "name": "template",
@@ -10489,11 +10493,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDOPOmanA": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOPOmanA",
         "name": "Transformer-from-scratch",
@@ -10536,11 +10540,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "R_kgDONxmveg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDONxmveg",
         "name": "triton_empty",
@@ -10583,11 +10587,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275833507
+        "metadataFetchedAt": 1781358718218
       }
     },
     "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
         "name": "pytorch",
@@ -10602,11 +10606,11 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2016-08-13T05:26:41Z",
-        "updatedAt": "2026-06-12T14:25:37Z",
-        "pushedAt": "2026-06-12T14:26:00Z",
-        "defaultBranchOid": "6f26be8b42ae1b923d7f7d56ff0fa12ad027632c",
-        "stars": 100684,
-        "forks": 27991,
+        "updatedAt": "2026-06-13T11:24:58Z",
+        "pushedAt": "2026-06-13T13:48:12Z",
+        "defaultBranchOid": "77e8ad08177a8af2cff1cd18ea8f996245e2ad33",
+        "stars": 100715,
+        "forks": 28004,
         "primaryLanguage": "Python",
         "topics": [
           "neural-network",
@@ -10622,49 +10626,49 @@
           {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 96121840,
+            "value": 96241128,
             "percentage": 63.65
           },
           {
             "languageName": "C++",
             "color": "#f34b7d",
-            "value": 43441926,
-            "percentage": 28.76
+            "value": 43460472,
+            "percentage": 28.74
           },
           {
             "languageName": "Cuda",
             "color": "#3A4E3A",
-            "value": 4022511,
-            "percentage": 2.66
+            "value": 4033576,
+            "percentage": 2.67
           },
           {
             "languageName": "C",
             "color": "#555555",
-            "value": 1900773,
-            "percentage": 1.26
+            "value": 1919874,
+            "percentage": 1.27
           },
           {
             "languageName": "Objective-C++",
             "color": "#6866fb",
-            "value": 1570058,
+            "value": 1567942,
             "percentage": 1.04
           },
           {
             "languageName": "CMake",
             "color": "#DA3434",
-            "value": 877363,
+            "value": 879121,
             "percentage": 0.58
           },
           {
             "languageName": "Metal",
             "color": "#8f14e9",
-            "value": 672202,
+            "value": 673002,
             "percentage": 0.45
           },
           {
             "languageName": "Shell",
             "color": "#89e051",
-            "value": 487777,
+            "value": 487968,
             "percentage": 0.32
           },
           {
@@ -10676,13 +10680,13 @@
           {
             "languageName": "HIP",
             "color": "#4F3A4F",
-            "value": 315997,
+            "value": 322159,
             "percentage": 0.21
           },
           {
             "languageName": "Starlark",
             "color": "#76d275",
-            "value": 290360,
+            "value": 290415,
             "percentage": 0.19
           },
           {
@@ -10718,7 +10722,7 @@
           {
             "languageName": "Batchfile",
             "color": "#C1F12E",
-            "value": 78976,
+            "value": 78968,
             "percentage": 0.05
           },
           {
@@ -10740,7 +10744,7 @@
             "percentage": 0.01
           }
         ],
-        "codeByteTotal": 151025983,
+        "codeByteTotal": 151200825,
         "sources": [
           "profile-contribution",
           "cache",
@@ -10753,11 +10757,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOS2aZQw": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOS2aZQw",
         "name": "vllm",
@@ -10854,11 +10858,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     },
     "R_kgDOI7xefg": {
-      "fetchedAt": 1781275845760,
+      "fetchedAt": 1781358728508,
       "repository": {
         "id": "R_kgDOI7xefg",
         "name": "vllm",
@@ -10873,11 +10877,11 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2023-02-09T11:23:20Z",
-        "updatedAt": "2026-06-12T14:44:24Z",
-        "pushedAt": "2026-06-12T14:49:49Z",
-        "defaultBranchOid": "c7aa3d263049ac9eefd0f59a10f5ecc6a78927df",
-        "stars": 82682,
-        "forks": 17983,
+        "updatedAt": "2026-06-13T13:41:36Z",
+        "pushedAt": "2026-06-13T10:17:39Z",
+        "defaultBranchOid": "470229c37efaf69c86e8bc97482b0b1ff7551c65",
+        "stars": 82760,
+        "forks": 18013,
         "primaryLanguage": "Python",
         "topics": [
           "gpt",
@@ -10905,26 +10909,26 @@
           {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 38135623,
-            "percentage": 83.71
+            "value": 38160602,
+            "percentage": 84.22
           },
           {
             "languageName": "Cuda",
             "color": "#3A4E3A",
-            "value": 2630494,
-            "percentage": 5.77
+            "value": 2431492,
+            "percentage": 5.37
           },
           {
             "languageName": "Rust",
             "color": "#dea584",
-            "value": 2313095,
-            "percentage": 5.08
+            "value": 2331557,
+            "percentage": 5.15
           },
           {
             "languageName": "C++",
             "color": "#f34b7d",
-            "value": 1708333,
-            "percentage": 3.75
+            "value": 1705620,
+            "percentage": 3.76
           },
           {
             "languageName": "Shell",
@@ -10935,14 +10939,8 @@
           {
             "languageName": "CMake",
             "color": "#DA3434",
-            "value": 129229,
-            "percentage": 0.28
-          },
-          {
-            "languageName": "C",
-            "color": "#555555",
-            "value": 96491,
-            "percentage": 0.21
+            "value": 129169,
+            "percentage": 0.29
           },
           {
             "languageName": "Dockerfile",
@@ -10957,13 +10955,19 @@
             "percentage": 0.05
           },
           {
+            "languageName": "C",
+            "color": "#555555",
+            "value": 10959,
+            "percentage": 0.02
+          },
+          {
             "languageName": "Jinja",
             "color": "#a52a22",
             "value": 6924,
             "percentage": 0.02
           }
         ],
-        "codeByteTotal": 45557141,
+        "codeByteTotal": 45313275,
         "sources": [
           "profile-contribution",
           "cache",
@@ -10976,7 +10980,7 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1781275834341
+        "metadataFetchedAt": 1781358719244
       }
     }
   },
@@ -11022,11 +11026,11 @@
       "status": "fresh"
     },
     "R_kgDOPMad5w": {
-      "additions": 73431,
-      "deletions": 31686,
-      "commits": 332,
-      "fetchedAt": 1781275847656,
-      "defaultBranchOid": "16388e5907e21f76564a803bd0f869f557bccd8b",
+      "additions": 73851,
+      "deletions": 32075,
+      "commits": 333,
+      "fetchedAt": 1781358730353,
+      "defaultBranchOid": "fb778bbc377a1f8cf11e9defd51ed0476500f2cd",
       "status": "fresh"
     },
     "R_kgDOPE-ucg": {
@@ -11097,8 +11101,8 @@
       "additions": 0,
       "deletions": 0,
       "commits": 0,
-      "fetchedAt": 1781275848551,
-      "defaultBranchOid": "6f26be8b42ae1b923d7f7d56ff0fa12ad027632c",
+      "fetchedAt": 1781358730796,
+      "defaultBranchOid": "77e8ad08177a8af2cff1cd18ea8f996245e2ad33",
       "status": "fresh"
     },
     "R_kgDOSZTQug": {
@@ -11121,8 +11125,8 @@
       "additions": 0,
       "deletions": 0,
       "commits": 0,
-      "fetchedAt": 1781275847925,
-      "defaultBranchOid": "c7aa3d263049ac9eefd0f59a10f5ecc6a78927df",
+      "fetchedAt": 1781358730437,
+      "defaultBranchOid": "470229c37efaf69c86e8bc97482b0b1ff7551c65",
       "status": "fresh"
     }
   },
@@ -11265,10 +11269,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159415,
-      "status": "cached"
+      "fetchedAt": 1781358728667,
+      "status": "fresh"
     },
     "R_kgDOO9-tyw": {
       "count": 0,
@@ -11408,10 +11422,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159471,
-      "status": "cached"
+      "fetchedAt": 1781358728800,
+      "status": "fresh"
     },
     "R_kgDOOqnXCg": {
       "count": 3,
@@ -11551,10 +11575,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159832,
-      "status": "cached"
+      "fetchedAt": 1781358728833,
+      "status": "fresh"
     },
     "R_kgDOO-zvGQ": {
       "count": 0,
@@ -11694,10 +11728,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159475,
-      "status": "cached"
+      "fetchedAt": 1781358728783,
+      "status": "fresh"
     },
     "R_kgDOPE-ucg": {
       "count": 0,
@@ -11837,10 +11881,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159716,
-      "status": "cached"
+      "fetchedAt": 1781358728950,
+      "status": "fresh"
     },
     "R_kgDOPGDvgA": {
       "count": 0,
@@ -11980,10 +12034,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159727,
-      "status": "cached"
+      "fetchedAt": 1781358728990,
+      "status": "fresh"
     },
     "R_kgDOPMad5w": {
       "count": 1,
@@ -12123,10 +12187,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159969,
-      "status": "cached"
+      "fetchedAt": 1781358728984,
+      "status": "fresh"
     },
     "R_kgDOPMH_aQ": {
       "count": 0,
@@ -12266,10 +12340,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160090,
-      "status": "cached"
+      "fetchedAt": 1781358729143,
+      "status": "fresh"
     },
     "R_kgDOPMas_w": {
       "count": 0,
@@ -12409,10 +12493,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193159992,
-      "status": "cached"
+      "fetchedAt": 1781358729107,
+      "status": "fresh"
     },
     "R_kgDOPMMIrg": {
       "count": 0,
@@ -12552,10 +12646,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160182,
-      "status": "cached"
+      "fetchedAt": 1781358729157,
+      "status": "fresh"
     },
     "R_kgDOPOmanA": {
       "count": 0,
@@ -12695,10 +12799,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160247,
-      "status": "cached"
+      "fetchedAt": 1781358729253,
+      "status": "fresh"
     },
     "R_kgDORbI-HA": {
       "count": 0,
@@ -12838,10 +12952,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160435,
-      "status": "cached"
+      "fetchedAt": 1781358729314,
+      "status": "fresh"
     },
     "R_kgDOPVM3og": {
       "count": 1,
@@ -12981,10 +13105,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160317,
-      "status": "cached"
+      "fetchedAt": 1781358729297,
+      "status": "fresh"
     },
     "R_kgDOSYSWCg": {
       "count": 1,
@@ -13124,10 +13258,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160558,
-      "status": "cached"
+      "fetchedAt": 1781358729475,
+      "status": "fresh"
     },
     "R_kgDOSZTQug": {
       "count": 0,
@@ -13267,10 +13411,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160686,
-      "status": "cached"
+      "fetchedAt": 1781358729484,
+      "status": "fresh"
     },
     "R_kgDOS2aZQw": {
       "count": 2,
@@ -13345,10 +13499,20 @@
           "timestamp": "2026-06-10T00:00:00Z",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-06-11T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-06-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ],
-      "fetchedAt": 1781193160490,
-      "status": "cached"
+      "fetchedAt": 1781358729447,
+      "status": "fresh"
     }
   },
   "backfill": {
@@ -13368,21 +13532,21 @@
       "contributors:R_kgDOSYSWCg:77cabd291fa656ec6a1d237cfa524ee792133d89": 1780066585599,
       "contributors:R_kgDOPOmanA:09e14f4d8eaa4a20ed03dcec93a81c2ef72d338e": 1780670563869,
       "contributors:R_kgDORbI-HA:2774c6fdaea86b3b0943bd2ffb1598e88530cdb1": 1780066585752,
-      "traffic:R_kgDONxmveg": 1781275845955,
-      "traffic:R_kgDOO9-tyw": 1781275846085,
-      "traffic:R_kgDOOqnXCg": 1781275846148,
-      "traffic:R_kgDOO-zvGQ": 1781275846097,
-      "traffic:R_kgDOPE-ucg": 1781275846304,
-      "traffic:R_kgDOPGDvgA": 1781275846323,
-      "traffic:R_kgDOPMad5w": 1781275846322,
-      "traffic:R_kgDOPMH_aQ": 1781275846522,
-      "traffic:R_kgDOPMas_w": 1781275846523,
-      "traffic:R_kgDOPMMIrg": 1781275846533,
-      "traffic:R_kgDOPOmanA": 1781275846702,
-      "traffic:R_kgDORbI-HA": 1781275846714,
-      "traffic:R_kgDOPVM3og": 1781275846709,
-      "traffic:R_kgDOSYSWCg": 1781275846884,
-      "traffic:R_kgDOSZTQug": 1781275846900,
+      "traffic:R_kgDONxmveg": 1781358728667,
+      "traffic:R_kgDOO9-tyw": 1781358728800,
+      "traffic:R_kgDOOqnXCg": 1781358728833,
+      "traffic:R_kgDOO-zvGQ": 1781358728783,
+      "traffic:R_kgDOPE-ucg": 1781358728950,
+      "traffic:R_kgDOPGDvgA": 1781358728990,
+      "traffic:R_kgDOPMad5w": 1781358728984,
+      "traffic:R_kgDOPMH_aQ": 1781358729143,
+      "traffic:R_kgDOPMas_w": 1781358729107,
+      "traffic:R_kgDOPMMIrg": 1781358729157,
+      "traffic:R_kgDOPOmanA": 1781358729253,
+      "traffic:R_kgDORbI-HA": 1781358729314,
+      "traffic:R_kgDOPVM3og": 1781358729297,
+      "traffic:R_kgDOSYSWCg": 1781358729475,
+      "traffic:R_kgDOSZTQug": 1781358729484,
       "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:2a81e915639ebdb57c238db6c7d58730d427f2c3": 1780066587873,
       "contributors:R_kgDOSZTQug:dc8e7e7d60ea76d6d8600139918f5c6916d2f8fc": 1780670564636,
       "contributors:R_kgDOPMad5w:54f57550aaccf074496dc8bf9293c946825c35b1": 1780147332228,
@@ -13408,7 +13572,7 @@
       "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:80af7b35bb25e48f647d25e4e6864a908380a88f": 1781016084344,
       "contributors:R_kgDOPMad5w:c1d4ea712a04b4dfdf8b5b776537be47729227f7": 1781016086320,
       "contributors:R_kgDOS2aZQw:9ad08c4d1513af4c2df34a20aa02dc0da688042d": 1781105095375,
-      "traffic:R_kgDOS2aZQw": 1781275846883,
+      "traffic:R_kgDOS2aZQw": 1781358729447,
       "contributors:R_kgDOI7xefg:de900fa7e5e1a28cc1faac94b76981993e648f4f": 1781105096521,
       "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:1190095994b3b3913e3d2e60d63219cf786ba3b4": 1781105096867,
       "contributors:R_kgDOPMad5w:084152b23248a80d98a4ece27f8567a9de41c71c": 1781105098597,
@@ -13417,7 +13581,10 @@
       "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:fca74667d08158d1dfd90e87c8b27d2a3113e55e": 1781193162213,
       "contributors:R_kgDOPMad5w:16388e5907e21f76564a803bd0f869f557bccd8b": 1781275847656,
       "contributors:R_kgDOI7xefg:c7aa3d263049ac9eefd0f59a10f5ecc6a78927df": 1781275847925,
-      "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:6f26be8b42ae1b923d7f7d56ff0fa12ad027632c": 1781275848551
+      "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:6f26be8b42ae1b923d7f7d56ff0fa12ad027632c": 1781275848551,
+      "contributors:R_kgDOPMad5w:fb778bbc377a1f8cf11e9defd51ed0476500f2cd": 1781358730353,
+      "contributors:R_kgDOI7xefg:470229c37efaf69c86e8bc97482b0b1ff7551c65": 1781358730437,
+      "contributors:MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==:77e8ad08177a8af2cff1cd18ea8f996245e2ad33": 1781358730796
     },
     "failures": {}
   }
