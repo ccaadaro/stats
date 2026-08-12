@@ -9,74 +9,74 @@
   "twitterUsername": null,
   "websiteUrl": null,
   "createdAt": "2021-09-15T15:46:20Z",
-  "repoViews": 31,
-  "linesOfCodeChanged": 284233,
-  "linesAdded": 210565,
-  "linesDeleted": 73668,
-  "commitCount": 433,
-  "totalCommits": 435,
-  "totalPullRequests": 10,
+  "repoViews": 41,
+  "linesOfCodeChanged": 121821,
+  "linesAdded": 104347,
+  "linesDeleted": 17474,
+  "commitCount": 41,
+  "totalCommits": 436,
+  "totalPullRequests": 12,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 561943570,
+  "codeByteTotal": 563189652,
   "topLanguages": [
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 408769691,
-      "percentage": 72.74
+      "value": 409810941,
+      "percentage": 72.77
     },
     {
       "languageName": "C++",
       "color": "#f34b7d",
-      "value": 95307948,
-      "percentage": 16.96
+      "value": 95428051,
+      "percentage": 16.94
     },
     {
       "languageName": "Cuda",
       "color": "#3A4E3A",
-      "value": 20944546,
+      "value": 21017009,
       "percentage": 3.73
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
-      "value": 16884007,
+      "value": 16883023,
       "percentage": 3
     },
     {
       "languageName": "C",
       "color": "#555555",
-      "value": 4252776,
+      "value": 4253546,
       "percentage": 0.76
     },
     {
       "languageName": "Objective-C++",
       "color": "#6866fb",
-      "value": 3193884,
+      "value": 3201759,
       "percentage": 0.57
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 2959337,
+      "value": 2963161,
       "percentage": 0.53
     },
     {
       "languageName": "CMake",
       "color": "#DA3434",
-      "value": 2098655,
+      "value": 2099721,
       "percentage": 0.37
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 1433245,
-      "percentage": 0.26
+      "percentage": 0.25
     },
     {
       "languageName": "Metal",
       "color": "#8f14e9",
-      "value": 1326470,
+      "value": 1329430,
       "percentage": 0.24
     },
     {
@@ -94,7 +94,7 @@
     {
       "languageName": "Starlark",
       "color": "#76d275",
-      "value": 628663,
+      "value": 628685,
       "percentage": 0.11
     },
     {
@@ -112,13 +112,13 @@
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 408378,
+      "value": 401383,
       "percentage": 0.07
     },
     {
       "languageName": "Jinja",
       "color": "#a52a22",
-      "value": 382409,
+      "value": 386137,
       "percentage": 0.07
     },
     {
@@ -220,14 +220,14 @@
   "repositoriesContributedTo": 4,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 466,
+  "totalContributions": 469,
   "contributionStats": {
     "longestStreak": 296,
-    "currentStreak": 97,
+    "currentStreak": 98,
     "mostActiveDay": "Monday",
     "averagePerDay": 0.26,
-    "averagePerWeek": 1.82,
-    "averagePerMonth": 7.78,
+    "averagePerWeek": 1.83,
+    "averagePerMonth": 7.83,
     "monthlyBreakdown": [
       {
         "month": "2021-09",
@@ -467,7 +467,7 @@
       },
       {
         "month": "2026-08",
-        "contributions": 19
+        "contributions": 22
       }
     ],
     "yearlyBreakdown": [
@@ -493,7 +493,7 @@
       },
       {
         "year": "2026",
-        "contributions": 252
+        "contributions": 255
       }
     ],
     "peakDay": {
@@ -511,7 +511,7 @@
     "activeRepos": 13,
     "reposWithStars": 5,
     "reposCreatedThisYear": 7,
-    "averageStarsPerRepo": 9691.74
+    "averageStarsPerRepo": 9699.91
   },
   "computedStats": {
     "totalRepos": 23,
@@ -523,7 +523,7 @@
     "activeRepos": 13,
     "reposWithStars": 5,
     "reposCreatedThisYear": 7,
-    "averageStarsPerRepo": 9691.74,
+    "averageStarsPerRepo": 9699.91,
     "languageCount": 32,
     "primaryLanguage": "Python",
     "primaryLanguageThisYear": "Python",
@@ -531,55 +531,55 @@
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 408669631,
-        "percentage": 72.86
+        "value": 409710881,
+        "percentage": 72.89
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 95307948,
-        "percentage": 16.99
+        "value": 95428051,
+        "percentage": 16.98
       },
       {
         "languageName": "Cuda",
         "color": "#3A4E3A",
-        "value": 20944546,
-        "percentage": 3.73
+        "value": 21017009,
+        "percentage": 3.74
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 16884007,
-        "percentage": 3.01
+        "value": 16883023,
+        "percentage": 3
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 4252776,
+        "value": 4253546,
         "percentage": 0.76
       },
       {
         "languageName": "Objective-C++",
         "color": "#6866fb",
-        "value": 3193884,
+        "value": 3201759,
         "percentage": 0.57
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 2952492,
+        "value": 2956316,
         "percentage": 0.53
       },
       {
         "languageName": "CMake",
         "color": "#DA3434",
-        "value": 2098655,
+        "value": 2099721,
         "percentage": 0.37
       },
       {
         "languageName": "Metal",
         "color": "#8f14e9",
-        "value": 1326470,
+        "value": 1329430,
         "percentage": 0.24
       },
       {
@@ -710,23 +710,23 @@
       "vlm",
       "wan"
     ],
-    "contributionsThisYear": 252,
+    "contributionsThisYear": 255,
     "contributionsLastYear": 213,
-    "yearOverYearGrowth": 18.31,
+    "yearOverYearGrowth": 19.72,
     "mostProductiveMonth": {
       "month": "2025-07",
       "contributions": 44
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 435,
+    "totalCommitContributions": 436,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 2,
     "totalRepositoryContributions": 19,
-    "totalPullRequestContributions": 9,
+    "totalPullRequestContributions": 11,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 466,
+      "totalContributions": 469,
       "weeks": [
         {
           "contributionDays": [
@@ -8951,8 +8951,12 @@
               "date": "2026-08-10"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 3,
               "date": "2026-08-11"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-08-12"
             }
           ]
         }
@@ -9101,11 +9105,11 @@
       "createdAt": "2026-05-09T00:24:00Z"
     }
   ],
-  "closedIssues": 0,
-  "openIssues": 2,
-  "fetchedAt": 1786452891579,
+  "closedIssues": 1,
+  "openIssues": 1,
+  "fetchedAt": 1786539585899,
   "schemaVersion": 2,
-  "generatedAt": "2026-08-11T12:54:51.579Z",
+  "generatedAt": "2026-08-12T12:59:45.899Z",
   "profile": {
     "name": "",
     "login": "ccaadaro",
@@ -9121,15 +9125,15 @@
     "following": 0
   },
   "profileContributions": {
-    "totalContributions": 466,
-    "totalCommitContributions": 435,
+    "totalContributions": 469,
+    "totalCommitContributions": 436,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 2,
     "totalRepositoryContributions": 19,
-    "totalPullRequestContributions": 9,
+    "totalPullRequestContributions": 11,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 466,
+      "totalContributions": 469,
       "weeks": [
         {
           "contributionDays": [
@@ -17354,8 +17358,12 @@
               "date": "2026-08-10"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 3,
               "date": "2026-08-11"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-08-12"
             }
           ]
         }
@@ -17363,11 +17371,11 @@
     },
     "stats": {
       "longestStreak": 296,
-      "currentStreak": 97,
+      "currentStreak": 98,
       "mostActiveDay": "Monday",
       "averagePerDay": 0.26,
-      "averagePerWeek": 1.82,
-      "averagePerMonth": 7.78,
+      "averagePerWeek": 1.83,
+      "averagePerMonth": 7.83,
       "monthlyBreakdown": [
         {
           "month": "2021-09",
@@ -17607,7 +17615,7 @@
         },
         {
           "month": "2026-08",
-          "contributions": 19
+          "contributions": 22
         }
       ],
       "yearlyBreakdown": [
@@ -17633,7 +17641,7 @@
         },
         {
           "year": "2026",
-          "contributions": 252
+          "contributions": 255
         }
       ],
       "peakDay": {
@@ -17815,7 +17823,7 @@
         "nameWithOwner": "ccaadaro/stats",
         "owner": "ccaadaro",
         "counts": {
-          "commits": 393,
+          "commits": 394,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -17889,7 +17897,7 @@
         "counts": {
           "commits": 0,
           "issues": 0,
-          "pullRequests": 2,
+          "pullRequests": 3,
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         }
@@ -17913,7 +17921,7 @@
         "counts": {
           "commits": 0,
           "issues": 0,
-          "pullRequests": 3,
+          "pullRequests": 4,
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         }
@@ -17935,9 +17943,9 @@
     }
   },
   "activity": {
-    "totalPullRequests": 10,
-    "openIssues": 2,
-    "closedIssues": 0,
+    "totalPullRequests": 12,
+    "openIssues": 1,
+    "closedIssues": 1,
     "repositoriesContributedTo": 4,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
@@ -17992,7 +18000,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOPMMIrg",
@@ -18029,7 +18037,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOSZTQug",
@@ -18073,7 +18081,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOPE-ucg",
@@ -18123,7 +18131,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOPGDvgA",
@@ -18179,7 +18187,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOO-zvGQ",
@@ -18229,7 +18237,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOPVM3og",
@@ -18285,7 +18293,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOTW6i7w",
@@ -18322,7 +18330,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOSYSWCg",
@@ -18408,7 +18416,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOO9-tyw",
@@ -18470,7 +18478,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOPMH_aQ",
@@ -18520,7 +18528,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDORbI-HA",
@@ -18537,7 +18545,7 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2026-02-28T13:47:51Z",
       "updatedAt": "2026-02-28T13:47:51Z",
-      "pushedAt": "2026-03-25T08:35:44Z",
+      "pushedAt": "2026-08-11T19:45:14Z",
       "defaultBranchOid": "2774c6fdaea86b3b0943bd2ffb1598e88530cdb1",
       "stars": 0,
       "forks": 0,
@@ -18678,7 +18686,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOOqnXCg",
@@ -18734,7 +18742,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOT0OpZA",
@@ -18892,7 +18900,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOPMad5w",
@@ -18908,9 +18916,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-07-14T16:48:52Z",
-      "updatedAt": "2026-08-10T13:01:08Z",
-      "pushedAt": "2026-08-10T12:58:20Z",
-      "defaultBranchOid": "0bea107899025f9846dd121f409a54660a8c1b82",
+      "updatedAt": "2026-08-11T12:55:52Z",
+      "pushedAt": "2026-08-11T12:54:54Z",
+      "defaultBranchOid": "17903c200772d72c409e666614e064e864537c13",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -18923,13 +18931,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 393,
+        "commits": 394,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOPMas_w",
@@ -18985,7 +18993,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOPOmanA",
@@ -19029,7 +19037,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDONxmveg",
@@ -19073,7 +19081,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452872568
+      "metadataFetchedAt": 1786539554490
     },
     {
       "id": "R_kgDOS2aZQw",
@@ -19090,7 +19098,7 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2026-06-10T11:41:11Z",
       "updatedAt": "2026-06-10T11:41:11Z",
-      "pushedAt": "2026-08-11T11:53:45Z",
+      "pushedAt": "2026-08-11T20:41:07Z",
       "defaultBranchOid": "9ad08c4d1513af4c2df34a20aa02dc0da688042d",
       "stars": 0,
       "forks": 0,
@@ -19171,7 +19179,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOMD631w",
@@ -19187,9 +19195,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2024-06-02T16:20:40Z",
-      "updatedAt": "2026-07-30T04:58:30Z",
-      "pushedAt": "2026-08-11T11:58:11Z",
-      "defaultBranchOid": "4dedfa54e5c22029e7898edd40e306a0b56aad08",
+      "updatedAt": "2026-08-11T16:56:22Z",
+      "pushedAt": "2026-08-11T19:18:48Z",
+      "defaultBranchOid": "f23353ade15c4c6afc0d26836fbe8c886b36a59e",
       "stars": 147,
       "forks": 9,
       "primaryLanguage": "C++",
@@ -19198,41 +19206,41 @@
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 539090,
-          "percentage": 38.14
+          "value": 599530,
+          "percentage": 37.24
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 471064,
-          "percentage": 33.33
+          "value": 590315,
+          "percentage": 36.67
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 218051,
-          "percentage": 15.43
+          "value": 234000,
+          "percentage": 14.54
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 84118,
-          "percentage": 5.95
+          "value": 84831,
+          "percentage": 5.27
         },
         {
           "languageName": "Jupyter Notebook",
           "color": "#DA5B0B",
           "value": 84001,
-          "percentage": 5.94
+          "percentage": 5.22
         },
         {
           "languageName": "CMake",
           "color": "#DA3434",
           "value": 17198,
-          "percentage": 1.22
+          "percentage": 1.07
         }
       ],
-      "codeByteTotal": 1413522,
+      "codeByteTotal": 1609875,
       "sources": [
         "profile-contribution",
         "cache",
@@ -19245,7 +19253,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
@@ -19261,11 +19269,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2016-08-13T05:26:41Z",
-      "updatedAt": "2026-08-11T12:48:44Z",
-      "pushedAt": "2026-08-11T12:46:33Z",
-      "defaultBranchOid": "3b294598b34a37bbb3415929896a2d4c2d5f56fa",
-      "stars": 102312,
-      "forks": 28821,
+      "updatedAt": "2026-08-12T12:49:44Z",
+      "pushedAt": "2026-08-12T12:59:03Z",
+      "defaultBranchOid": "35eadc3dfd50c88bc1935da2e36551344445fe2d",
+      "stars": 102346,
+      "forks": 28842,
       "primaryLanguage": "Python",
       "topics": [
         "neural-network",
@@ -19281,49 +19289,49 @@
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 102816301,
-          "percentage": 64.54
+          "value": 103137016,
+          "percentage": 64.57
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 44547318,
-          "percentage": 27.96
+          "value": 44606981,
+          "percentage": 27.93
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 4082037,
-          "percentage": 2.56
+          "value": 4103264,
+          "percentage": 2.57
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 1925481,
+          "value": 1925538,
           "percentage": 1.21
         },
         {
           "languageName": "Objective-C++",
           "color": "#6866fb",
-          "value": 1703301,
+          "value": 1711176,
           "percentage": 1.07
         },
         {
           "languageName": "CMake",
           "color": "#DA3434",
-          "value": 907910,
+          "value": 907923,
           "percentage": 0.57
         },
         {
           "languageName": "Metal",
           "color": "#8f14e9",
-          "value": 889553,
+          "value": 892513,
           "percentage": 0.56
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 507019,
+          "value": 507148,
           "percentage": 0.32
         },
         {
@@ -19341,7 +19349,7 @@
         {
           "languageName": "Starlark",
           "color": "#76d275",
-          "value": 292727,
+          "value": 292749,
           "percentage": 0.18
         },
         {
@@ -19365,8 +19373,8 @@
         {
           "languageName": "Jinja",
           "color": "#a52a22",
-          "value": 148066,
-          "percentage": 0.09
+          "value": 151794,
+          "percentage": 0.1
         },
         {
           "languageName": "Java",
@@ -19383,7 +19391,7 @@
         {
           "languageName": "Dockerfile",
           "color": "#384d54",
-          "value": 35851,
+          "value": 36129,
           "percentage": 0.02
         },
         {
@@ -19399,7 +19407,7 @@
           "percentage": 0.01
         }
       ],
-      "codeByteTotal": 159310684,
+      "codeByteTotal": 159727351,
       "sources": [
         "profile-contribution",
         "cache",
@@ -19408,11 +19416,11 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 2,
+        "pullRequests": 3,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOLCAjRg",
@@ -19428,11 +19436,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2024-01-08T04:15:52Z",
-      "updatedAt": "2026-08-11T12:54:09Z",
-      "pushedAt": "2026-08-11T12:53:36Z",
-      "defaultBranchOid": "2d193077f70fbd6dba25977b4acbc9b77aa46a8f",
-      "stars": 31679,
-      "forks": 7805,
+      "updatedAt": "2026-08-12T12:35:48Z",
+      "pushedAt": "2026-08-12T12:27:07Z",
+      "defaultBranchOid": "dc5f6c488317645d96dc630b1f410e4dfb6f9667",
+      "stars": 31735,
+      "forks": 7832,
       "primaryLanguage": "Python",
       "topics": [
         "cuda",
@@ -19458,31 +19466,31 @@
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 63944899,
-          "percentage": 84.02
+          "value": 64116279,
+          "percentage": 84.07
         },
         {
           "languageName": "Rust",
           "color": "#dea584",
           "value": 5443808,
-          "percentage": 7.15
+          "percentage": 7.14
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 3704810,
-          "percentage": 4.87
+          "value": 3707753,
+          "percentage": 4.86
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
           "value": 1892101,
-          "percentage": 2.49
+          "percentage": 2.48
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 391202,
+          "value": 388803,
           "percentage": 0.51
         },
         {
@@ -19494,8 +19502,8 @@
         {
           "languageName": "Dockerfile",
           "color": "#384d54",
-          "value": 116806,
-          "percentage": 0.15
+          "value": 109533,
+          "percentage": 0.14
         },
         {
           "languageName": "JavaScript",
@@ -19576,7 +19584,7 @@
           "percentage": 0
         }
       ],
-      "codeByteTotal": 76104586,
+      "codeByteTotal": 76269237,
       "sources": [
         "profile-contribution",
         "cache",
@@ -19589,7 +19597,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     },
     {
       "id": "R_kgDOI7xefg",
@@ -19605,11 +19613,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2023-02-09T11:23:20Z",
-      "updatedAt": "2026-08-11T12:54:12Z",
-      "pushedAt": "2026-08-11T11:48:49Z",
-      "defaultBranchOid": "6c95a641e95c0faa6f3aa802d1fd3cce3f3bc3ce",
-      "stars": 88770,
-      "forks": 20536,
+      "updatedAt": "2026-08-12T12:53:00Z",
+      "pushedAt": "2026-08-12T12:39:51Z",
+      "defaultBranchOid": "7aa248fcfef5ba7a6bfb0ce314e328ce63abb9f9",
+      "stars": 88868,
+      "forks": 20587,
       "primaryLanguage": "Python",
       "topics": [
         "gpt",
@@ -19637,37 +19645,37 @@
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 47947805,
-          "percentage": 83.6
+          "value": 48377709,
+          "percentage": 83.67
         },
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 3741817,
-          "percentage": 6.52
+          "value": 3740833,
+          "percentage": 6.47
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 2773994,
-          "percentage": 4.84
+          "value": 2806338,
+          "percentage": 4.85
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
           "value": 1954166,
-          "percentage": 3.41
+          "percentage": 3.38
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 690220,
+          "value": 696314,
           "percentage": 1.2
         },
         {
           "languageName": "CMake",
           "color": "#DA3434",
-          "value": 151182,
+          "value": 152235,
           "percentage": 0.26
         },
         {
@@ -19695,7 +19703,7 @@
           "percentage": 0.01
         }
       ],
-      "codeByteTotal": 57351392,
+      "codeByteTotal": 57819803,
       "sources": [
         "profile-contribution",
         "cache",
@@ -19704,76 +19712,76 @@
       "contributionCounts": {
         "commits": 0,
         "issues": 0,
-        "pullRequests": 3,
+        "pullRequests": 4,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1786452873600
+      "metadataFetchedAt": 1786539555445
     }
   ],
   "repoMetrics": {
     "starCount": 2,
     "forkCount": 0,
-    "codeByteTotal": 561943570,
+    "codeByteTotal": 563189652,
     "topLanguages": [
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 408769691,
-        "percentage": 72.74
+        "value": 409810941,
+        "percentage": 72.77
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 95307948,
-        "percentage": 16.96
+        "value": 95428051,
+        "percentage": 16.94
       },
       {
         "languageName": "Cuda",
         "color": "#3A4E3A",
-        "value": 20944546,
+        "value": 21017009,
         "percentage": 3.73
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 16884007,
+        "value": 16883023,
         "percentage": 3
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 4252776,
+        "value": 4253546,
         "percentage": 0.76
       },
       {
         "languageName": "Objective-C++",
         "color": "#6866fb",
-        "value": 3193884,
+        "value": 3201759,
         "percentage": 0.57
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 2959337,
+        "value": 2963161,
         "percentage": 0.53
       },
       {
         "languageName": "CMake",
         "color": "#DA3434",
-        "value": 2098655,
+        "value": 2099721,
         "percentage": 0.37
       },
       {
         "languageName": "Jupyter Notebook",
         "color": "#DA5B0B",
         "value": 1433245,
-        "percentage": 0.26
+        "percentage": 0.25
       },
       {
         "languageName": "Metal",
         "color": "#8f14e9",
-        "value": 1326470,
+        "value": 1329430,
         "percentage": 0.24
       },
       {
@@ -19791,7 +19799,7 @@
       {
         "languageName": "Starlark",
         "color": "#76d275",
-        "value": 628663,
+        "value": 628685,
         "percentage": 0.11
       },
       {
@@ -19809,13 +19817,13 @@
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
-        "value": 408378,
+        "value": 401383,
         "percentage": 0.07
       },
       {
         "languageName": "Jinja",
         "color": "#a52a22",
-        "value": 382409,
+        "value": 386137,
         "percentage": 0.07
       },
       {
@@ -19992,17 +20000,17 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 433,
-      "linesAdded": 210565,
-      "linesDeleted": 73668,
-      "linesOfCodeChanged": 284233,
-      "reposCompleted": 23,
+      "totalCommits": 41,
+      "linesAdded": 104347,
+      "linesDeleted": 17474,
+      "linesOfCodeChanged": 121821,
+      "reposCompleted": 21,
       "reposPending": 0,
       "reposFailed": 0
     },
     "traffic": {
-      "repoViews": 31,
-      "repoViewUniques": 8,
+      "repoViews": 41,
+      "repoViewUniques": 9,
       "reposCompleted": 19,
       "reposPending": 0,
       "reposFailed": 0
@@ -20017,7 +20025,7 @@
       "activeRepos": 13,
       "reposWithStars": 5,
       "reposCreatedThisYear": 7,
-      "averageStarsPerRepo": 9691.74
+      "averageStarsPerRepo": 9699.91
     },
     "computedStats": {
       "totalRepos": 23,
@@ -20029,7 +20037,7 @@
       "activeRepos": 13,
       "reposWithStars": 5,
       "reposCreatedThisYear": 7,
-      "averageStarsPerRepo": 9691.74,
+      "averageStarsPerRepo": 9699.91,
       "languageCount": 32,
       "primaryLanguage": "Python",
       "primaryLanguageThisYear": "Python",
@@ -20037,55 +20045,55 @@
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 408669631,
-          "percentage": 72.86
+          "value": 409710881,
+          "percentage": 72.89
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 95307948,
-          "percentage": 16.99
+          "value": 95428051,
+          "percentage": 16.98
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 20944546,
-          "percentage": 3.73
+          "value": 21017009,
+          "percentage": 3.74
         },
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 16884007,
-          "percentage": 3.01
+          "value": 16883023,
+          "percentage": 3
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 4252776,
+          "value": 4253546,
           "percentage": 0.76
         },
         {
           "languageName": "Objective-C++",
           "color": "#6866fb",
-          "value": 3193884,
+          "value": 3201759,
           "percentage": 0.57
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 2952492,
+          "value": 2956316,
           "percentage": 0.53
         },
         {
           "languageName": "CMake",
           "color": "#DA3434",
-          "value": 2098655,
+          "value": 2099721,
           "percentage": 0.37
         },
         {
           "languageName": "Metal",
           "color": "#8f14e9",
-          "value": 1326470,
+          "value": 1329430,
           "percentage": 0.24
         },
         {
@@ -20216,9 +20224,9 @@
         "vlm",
         "wan"
       ],
-      "contributionsThisYear": 252,
+      "contributionsThisYear": 255,
       "contributionsLastYear": 213,
-      "yearOverYearGrowth": 18.31,
+      "yearOverYearGrowth": 19.72,
       "mostProductiveMonth": {
         "month": "2025-07",
         "contributions": 44
@@ -20229,57 +20237,57 @@
     "readmeSummary": {
       "name": "",
       "username": "ccaadaro",
-      "totalContributions": 466,
-      "currentStreak": 97,
+      "totalContributions": 469,
+      "currentStreak": 98,
       "longestStreak": 296,
       "topLanguages": [
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 408769691,
-          "percentage": 72.74
+          "value": 409810941,
+          "percentage": 72.77
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 95307948,
-          "percentage": 16.96
+          "value": 95428051,
+          "percentage": 16.94
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 20944546,
+          "value": 21017009,
           "percentage": 3.73
         },
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 16884007,
+          "value": 16883023,
           "percentage": 3
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 4252776,
+          "value": 4253546,
           "percentage": 0.76
         }
       ],
       "starsReceived": 2,
       "forksReceived": 0,
       "activeRepos": 13,
-      "refreshedAt": "2026-08-11T12:54:51.579Z",
+      "refreshedAt": "2026-08-12T12:59:45.899Z",
       "complete": true
     },
     "cards": [
       {
         "id": "total-contributions",
         "label": "Total contributions",
-        "value": "466"
+        "value": "469"
       },
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "97 days"
+        "value": "98 days"
       },
       {
         "id": "languages",
@@ -20290,7 +20298,7 @@
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "535.9 MB"
+        "value": "537.1 MB"
       },
       {
         "id": "stars",
@@ -20321,7 +20329,7 @@
       },
       {
         "period": "2026",
-        "contributions": 252
+        "contributions": 255
       }
     ],
     "highlights": [
@@ -20341,7 +20349,7 @@
         "id": "top-language",
         "label": "Top language",
         "value": "Python",
-        "detail": "72.74%"
+        "detail": "72.77%"
       }
     ],
     "remotion": {
@@ -20355,7 +20363,7 @@
         {
           "id": "contributions",
           "title": "Contribution history",
-          "metric": "466",
+          "metric": "469",
           "supportingText": "296 day longest streak"
         },
         {
@@ -20381,9 +20389,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1786452871270,
-    "finishedAt": 1786452891579,
-    "durationMs": 20309,
+    "startedAt": 1786539553076,
+    "finishedAt": 1786539585899,
+    "durationMs": 32823,
     "coreComplete": true,
     "complete": true,
     "cache": {
@@ -20406,13 +20414,13 @@
         "limit": 5000,
         "remaining": 4990,
         "used": 10,
-        "resetAt": "2026-08-11T13:54:31Z"
+        "resetAt": "2026-08-12T13:59:13Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4957,
-        "used": 43,
-        "resetAt": "2026-08-11T13:41:52.000Z"
+        "remaining": 4965,
+        "used": 35,
+        "resetAt": "2026-08-12T13:19:42.000Z"
       }
     },
     "warnings": [],
@@ -20429,74 +20437,74 @@
     "twitterUsername": null,
     "websiteUrl": null,
     "createdAt": "2021-09-15T15:46:20Z",
-    "repoViews": 31,
-    "linesOfCodeChanged": 284233,
-    "linesAdded": 210565,
-    "linesDeleted": 73668,
-    "commitCount": 433,
-    "totalCommits": 435,
-    "totalPullRequests": 10,
+    "repoViews": 41,
+    "linesOfCodeChanged": 121821,
+    "linesAdded": 104347,
+    "linesDeleted": 17474,
+    "commitCount": 41,
+    "totalCommits": 436,
+    "totalPullRequests": 12,
     "totalPullRequestReviews": 0,
-    "codeByteTotal": 561943570,
+    "codeByteTotal": 563189652,
     "topLanguages": [
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 408769691,
-        "percentage": 72.74
+        "value": 409810941,
+        "percentage": 72.77
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
-        "value": 95307948,
-        "percentage": 16.96
+        "value": 95428051,
+        "percentage": 16.94
       },
       {
         "languageName": "Cuda",
         "color": "#3A4E3A",
-        "value": 20944546,
+        "value": 21017009,
         "percentage": 3.73
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
-        "value": 16884007,
+        "value": 16883023,
         "percentage": 3
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 4252776,
+        "value": 4253546,
         "percentage": 0.76
       },
       {
         "languageName": "Objective-C++",
         "color": "#6866fb",
-        "value": 3193884,
+        "value": 3201759,
         "percentage": 0.57
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
-        "value": 2959337,
+        "value": 2963161,
         "percentage": 0.53
       },
       {
         "languageName": "CMake",
         "color": "#DA3434",
-        "value": 2098655,
+        "value": 2099721,
         "percentage": 0.37
       },
       {
         "languageName": "Jupyter Notebook",
         "color": "#DA5B0B",
         "value": 1433245,
-        "percentage": 0.26
+        "percentage": 0.25
       },
       {
         "languageName": "Metal",
         "color": "#8f14e9",
-        "value": 1326470,
+        "value": 1329430,
         "percentage": 0.24
       },
       {
@@ -20514,7 +20522,7 @@
       {
         "languageName": "Starlark",
         "color": "#76d275",
-        "value": 628663,
+        "value": 628685,
         "percentage": 0.11
       },
       {
@@ -20532,13 +20540,13 @@
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
-        "value": 408378,
+        "value": 401383,
         "percentage": 0.07
       },
       {
         "languageName": "Jinja",
         "color": "#a52a22",
-        "value": 382409,
+        "value": 386137,
         "percentage": 0.07
       },
       {
@@ -20640,14 +20648,14 @@
     "repositoriesContributedTo": 4,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 466,
+    "totalContributions": 469,
     "contributionStats": {
       "longestStreak": 296,
-      "currentStreak": 97,
+      "currentStreak": 98,
       "mostActiveDay": "Monday",
       "averagePerDay": 0.26,
-      "averagePerWeek": 1.82,
-      "averagePerMonth": 7.78,
+      "averagePerWeek": 1.83,
+      "averagePerMonth": 7.83,
       "monthlyBreakdown": [
         {
           "month": "2021-09",
@@ -20887,7 +20895,7 @@
         },
         {
           "month": "2026-08",
-          "contributions": 19
+          "contributions": 22
         }
       ],
       "yearlyBreakdown": [
@@ -20913,7 +20921,7 @@
         },
         {
           "year": "2026",
-          "contributions": 252
+          "contributions": 255
         }
       ],
       "peakDay": {
@@ -20931,7 +20939,7 @@
       "activeRepos": 13,
       "reposWithStars": 5,
       "reposCreatedThisYear": 7,
-      "averageStarsPerRepo": 9691.74
+      "averageStarsPerRepo": 9699.91
     },
     "computedStats": {
       "totalRepos": 23,
@@ -20943,7 +20951,7 @@
       "activeRepos": 13,
       "reposWithStars": 5,
       "reposCreatedThisYear": 7,
-      "averageStarsPerRepo": 9691.74,
+      "averageStarsPerRepo": 9699.91,
       "languageCount": 32,
       "primaryLanguage": "Python",
       "primaryLanguageThisYear": "Python",
@@ -20951,55 +20959,55 @@
         {
           "languageName": "Python",
           "color": "#3572A5",
-          "value": 408669631,
-          "percentage": 72.86
+          "value": 409710881,
+          "percentage": 72.89
         },
         {
           "languageName": "C++",
           "color": "#f34b7d",
-          "value": 95307948,
-          "percentage": 16.99
+          "value": 95428051,
+          "percentage": 16.98
         },
         {
           "languageName": "Cuda",
           "color": "#3A4E3A",
-          "value": 20944546,
-          "percentage": 3.73
+          "value": 21017009,
+          "percentage": 3.74
         },
         {
           "languageName": "Rust",
           "color": "#dea584",
-          "value": 16884007,
-          "percentage": 3.01
+          "value": 16883023,
+          "percentage": 3
         },
         {
           "languageName": "C",
           "color": "#555555",
-          "value": 4252776,
+          "value": 4253546,
           "percentage": 0.76
         },
         {
           "languageName": "Objective-C++",
           "color": "#6866fb",
-          "value": 3193884,
+          "value": 3201759,
           "percentage": 0.57
         },
         {
           "languageName": "Shell",
           "color": "#89e051",
-          "value": 2952492,
+          "value": 2956316,
           "percentage": 0.53
         },
         {
           "languageName": "CMake",
           "color": "#DA3434",
-          "value": 2098655,
+          "value": 2099721,
           "percentage": 0.37
         },
         {
           "languageName": "Metal",
           "color": "#8f14e9",
-          "value": 1326470,
+          "value": 1329430,
           "percentage": 0.24
         },
         {
@@ -21130,23 +21138,23 @@
         "vlm",
         "wan"
       ],
-      "contributionsThisYear": 252,
+      "contributionsThisYear": 255,
       "contributionsLastYear": 213,
-      "yearOverYearGrowth": 18.31,
+      "yearOverYearGrowth": 19.72,
       "mostProductiveMonth": {
         "month": "2025-07",
         "contributions": 44
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 435,
+      "totalCommitContributions": 436,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 2,
       "totalRepositoryContributions": 19,
-      "totalPullRequestContributions": 9,
+      "totalPullRequestContributions": 11,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 466,
+        "totalContributions": 469,
         "weeks": [
           {
             "contributionDays": [
@@ -29371,8 +29379,12 @@
                 "date": "2026-08-10"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 3,
                 "date": "2026-08-11"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-08-12"
               }
             ]
           }
@@ -29521,8 +29533,8 @@
         "createdAt": "2026-05-09T00:24:00Z"
       }
     ],
-    "closedIssues": 0,
-    "openIssues": 2,
-    "fetchedAt": 1786452891579
+    "closedIssues": 1,
+    "openIssues": 1,
+    "fetchedAt": 1786539585899
   }
 }
